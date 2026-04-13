@@ -11,36 +11,21 @@ This repository should serve as a (non-exhaustive) resource listing tools, publi
 
 ## Species determination
 
+[`MASH`](https://github.com/marbl/Mash) ([MASH Paper](http://doi.org/10.1186/s13059-016-0997-x), [MASH Screen Paper](doi.org/10.1186/s13059-019-1841-x))
+[`fastANI`](https://github.com/ParBLiSS/FastANI)  
+[`sourmash`](https://github.com/sourmash-bio/sourmash)  
+[`pyANI-plus`](https://github.com/pyani-plus/pyani-plus)  
+[`skani`](https://github.com/bluenote-1577/skani)  
+[`TakonKit`](https://bioinf.shenwei.me/taxonkit/) ([Paper](https://doi.org/10.1016/j.jgg.2021.03.006))
+[`taxonomy-tools`](https://github.com/pmenzel/taxonomy-tools)  
+[`Kraken2`](https://github.com/DerrickWood/kraken2)  
+[`KrakenTools`](https://github.com/jenniferlu717/KrakenTools) ([Paper])  
+[`Kraken` databases/indices](https://benlangmead.github.io/aws-indexes/k2)  
 
-
-
-
-
-
-
-[MASH](https://github.com/marbl/Mash)
-[fastANI](https://github.com/ParBLiSS/FastANI)
-pyANI
-[sourmash](https://github.com/sourmash-bio/sourmash)
-Kraken
-Krakentools
-Kraken databases
-NCBI taxonomy tool kit
-TakonKit
-PMenzel taxonomytools
-Kraken2
-GTDB
-NCBI Taxonomy
-AllTheBacteria?
-
-[GABI](https://github.com/marchoeppner/gabi) ([Paper])
-[GARI](https://github.com/rki-mf1/GARI) ([Paper])
-[Bohra](https://github.com/MDU-PHL/bohra) ([Paper])
-[BakCharak]() ([Paper])
-
-ANI: https://github.com/bluenote-1577/skani (fastANI, mash)
-<img width="751" height="220" alt="image" src="https://github.com/user-attachments/assets/2af955b9-9344-4068-ae87-35eb678cc83c" />
-
+[Genome Taxonomy Database (GTDB)](https://gtdb.ecogenomic.org/)  
+[NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) ([FTP for downloads](https://ftp.ncbi.nih.gov/pub/taxonomy/))  
+[AllTheBacteria](https://allthebacteria.org/)  
+[Type (Strain) Genome Server (DMSZ)](https://tygs.dsmz.de/)
 
 ## Genotyping
 
@@ -54,15 +39,17 @@ ANI: https://github.com/bluenote-1577/skani (fastANI, mash)
 
 #### Listeria
 
-Lissero
+[LisSero](https://github.com/MDU-PHL/LisSero)
 
 #### _E. coli_
 
-EMMtyper
+[`ECTyper`](https://github.com/phac-nml/ecoli_serotyping)
+[`StxTyper`](https://github.com/ncbi/stxtyper)
+
 
 #### _Klebsiella_
 
-Kleborate?
+[`Kleborate`](https://github.com/klebgenomics/Kleborate) ([Paper](https://doi.org/10.1038/s41467-021-24448-3))
 
 #### Campylobacter?
 
@@ -70,15 +57,18 @@ Kleborate?
 
 #### _Neisseria gonorrhoeae_
 
-NGMASTER
+NGMASTERhttps://github.com/MDU-PHL/ngmaster ([Paper](https://doi.org/10.1099/mgen.0.000076))
 
 #### _Neisseria meningitidis_
 
-meningotype
+[`meningotype`](https://github.com/MDU-PHL/meningotype)
 
 #### _Brucella?_
 
 
+#### Streptococcus pyogenes
+
+[`emmtyper`](https://github.com/MDU-PHL/emmtyper)
 
 #### _Bacillus_?
 
@@ -103,24 +93,30 @@ meningotype
 
 ## AMR prediction
 
-TBtamr
-ABRitamr
+[`tbtAMR` (_M. tuberculosis_)](https://github.com/MDU-PHL/tbtamr)
+[abriTAMR](https://github.com/MDU-PHL/abritamr) ([Paper]())
 ARIBA
 abricate
+[`Mykrobe`](https://github.com/Mykrobe-tools/mykrobe)
 CARD
-Resfinder
+ResFinder
 AMRFinderPlus
 [Pathogen Detection Reference Gene Catalog](https://www.ncbi.nlm.nih.gov/pathogens/refgene/)
-STARAMR
-HAMRonizer (https://github.com/pha4ge/hAMRonization)
+[`STARAMR`](https://github.com/phac-nml/staramr)
+[HAMRonizer](https://github.com/pha4ge/hAMRonization)
 
 ## End-to-end microbial genomics pipelines (examples)
 
-NCBI Pathogen Detection
-bohra
-GABI
-GARI
+
+[`BACTOPIA`](https://bactopia.github.io/v3.0.0/)
+[Bohra](https://github.com/MDU-PHL/bohra) ([Paper]) 
 [AQUAMIS]()/[MiLonga](), [BakCharak]() and [ChewieSnake]()
+
+[NCBI Pathogen Detection]()
+
+[GABI](https://github.com/marchoeppner/gabi) ([Paper])  
+[GARI](https://github.com/rki-mf1/GARI) ([Paper])  
+
 
 
 
