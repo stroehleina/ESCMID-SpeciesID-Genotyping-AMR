@@ -39,7 +39,7 @@ This repository should serve as a (non-exhaustive) resource listing tools, publi
 
 #### Listeria
 
-[LisSero](https://github.com/MDU-PHL/LisSero)
+[`LisSero`](https://github.com/MDU-PHL/LisSero)
 
 #### _E. coli_
 
@@ -54,29 +54,22 @@ This repository should serve as a (non-exhaustive) resource listing tools, publi
 #### Campylobacter?
 
 
-
 #### _Neisseria gonorrhoeae_
 
-NGMASTERhttps://github.com/MDU-PHL/ngmaster ([Paper](https://doi.org/10.1099/mgen.0.000076))
+[`NGMASTER`](https://github.com/MDU-PHL/ngmaster) ([Paper](https://doi.org/10.1099/mgen.0.000076))
 
 #### _Neisseria meningitidis_
 
 [`meningotype`](https://github.com/MDU-PHL/meningotype)
 
-#### _Brucella?_
-
-
 #### Streptococcus pyogenes
 
 [`emmtyper`](https://github.com/MDU-PHL/emmtyper)
 
-#### _Bacillus_?
-
-
-
 ### MLST
 
 [`mlst` tool](https://github.com/tseemann/mlst)
+[MLSTFinder (online tool)](https://genepi.dk/mlstfinder)
 [PubMLST](https://pubmlst.org/)
 
 ### cgMLST/wgMLST
@@ -96,16 +89,17 @@ NGMASTERhttps://github.com/MDU-PHL/ngmaster ([Paper](https://doi.org/10.1099/mge
 [`tbtAMR` (_M. tuberculosis_)](https://github.com/MDU-PHL/tbtamr)
 [abriTAMR](https://github.com/MDU-PHL/abritamr) ([Paper]())
 ARIBA
-abricate
+[`ABRicate`]()
 [`Mykrobe`](https://github.com/Mykrobe-tools/mykrobe)
-CARD
-ResFinder
-AMRFinderPlus
+[Comprehensive Antimicrobial Resistance Database (CARD)](https://card.mcmaster.ca/) ([Paper](https://doi.org/10.1093/nar/gkac920))
+[`ResFinder`](https://github.com/genomicepidemiology/resfinder) ([Paper](https://doi.org/10.1093/jac/dkaa345))
+[`PointFinder`](https://bitbucket.org/genomicepidemiology/pointfinder/src/master/) ([Paper](https://pubmed.ncbi.nlm.nih.gov/29091202/), [Webtool]())
+[`AMRFinderPlus`(https://github.com/ncbi/amr)]([Paper](https://doi.org/10.1038/s41598-021-91456-0), [Documentation](https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/))
 [Pathogen Detection Reference Gene Catalog](https://www.ncbi.nlm.nih.gov/pathogens/refgene/)
 [`STARAMR`](https://github.com/phac-nml/staramr)
 [HAMRonizer](https://github.com/pha4ge/hAMRonization)
 
-## End-to-end microbial genomics pipelines (examples)
+## End-to-end microbial genomics pipelines and online tools (examples)
 
 
 [`BACTOPIA`](https://bactopia.github.io/v3.0.0/)
@@ -116,7 +110,7 @@ AMRFinderPlus
 
 [GABI](https://github.com/marchoeppner/gabi) ([Paper])  
 [GARI](https://github.com/rki-mf1/GARI) ([Paper])  
-
+[Center for Genomic Epidemiology (@DTU, Denmark) online bioinformatics tools](https://genepi.dk/)
 
 
 
