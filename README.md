@@ -2,12 +2,13 @@
 
 This is a companion repository to the presentation 
 
-"Species determination, genotyping and AMR prediction - A gentle introduction to bioinformatics for microbial genomics"
+**Species determination, genotyping and AMR prediction - A gentle introduction to bioinformatics for microbial genomics**
 
-held by Andreas Stroehlein at the 36th Congress of the European Society of Clinical Microbiology and Infectious Diseases ([ESCMID](https://www.escmid.org/)) 
-as part of an Educational Session on 17th April 2026, Munich, Germany.
+held by Andreas Stroehlein at the _36th Congress of the European Society of Clinical Microbiology and Infectious Diseases_ ([ESCMID](https://www.escmid.org/)) 
+as part of an _Educational Session_ on 17th April 2026 in Munich, Germany.
 
 This repository should serve as a (non-exhaustive) resource listing tools, publications and databases used for species determination, genotyping and AMR prediction based on whole-genome sequencing (WGS) data.
+PRs are welcome.
 
 ## Species determination
 
