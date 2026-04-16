@@ -98,6 +98,9 @@ PRs are welcome.
 - [Pathogen Detection Reference Gene Catalog](https://www.ncbi.nlm.nih.gov/pathogens/refgene/)
 - [`STARAMR`](https://github.com/phac-nml/staramr)
 - [HAMRonizer](https://github.com/pha4ge/hAMRonization)
+- [AMR++](https://github.com/Microbial-Ecology-Group/AMRplusplus) ([Paper](https://doi.org/10.1093/nar/gkac1047))
+- [SRST2](https://github.com/katholt/srst2)
+- [AMRRules](https://github.com/katholt/AMRrules)
 
 ## End-to-end microbial genomics pipelines and online tools (examples)
 
@@ -105,7 +108,8 @@ PRs are welcome.
 - [Bohra](https://github.com/MDU-PHL/bohra) ([Paper]) 
 - [AQUAMIS]()/[MiLonga](), [BakCharak]() and [ChewieSnake]()
 
-- [NCBI Pathogen Detection]()
+- [NCBI Pathogen Detection](https://www.ncbi.nlm.nih.gov/pathogens/) (Paper)
+
 
 - [GABI](https://github.com/marchoeppner/gabi) ([Paper])  
 - [GARI](https://github.com/rki-mf1/GARI) ([Paper])  
@@ -116,4 +120,4 @@ PRs are welcome.
 
 [µBinfie Podcast](https://microbinfie.github.io/)
 
-µBinfie Slack
+[µBinfie Slack](http://microbial-bioinfo.slack.com/)
