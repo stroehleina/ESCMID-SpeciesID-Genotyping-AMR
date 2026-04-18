@@ -123,6 +123,7 @@ PRs are welcome.
 ## End-to-end microbial genomics pipelines and online tools (examples)
 - [`Bohra`](https://github.com/MDU-PHL/bohra)
 - [`AQUAMIS`](https://gitlab.com/bfr_bioinformatics/AQUAMIS) ([Paper](https://doi.org/10.3390/genes12050644))/[`MiLonga`](https://gitlab.com/bfr_bioinformatics/milonga), [`BakCharak`](https://gitlab.com/bfr_bioinformatics/bakcharak) and [`chewieSnake`](https://gitlab.com/bfr_bioinformatics/chewieSnake) ([Paper](https://doi.org/10.3389/fmicb.2021.649517))
+- [GMS JASEN](https://github.com/genomic-medicine-sweden/jasen)
 - [BACTOPIA](https://bactopia.github.io/v3.0.0/)
 - [`AnoBac`](https://github.com/rki-mf1/anobac)
 - [NCBI Pathogen Detection](https://www.ncbi.nlm.nih.gov/pathogens/) ([Documentation](https://www.ncbi.nlm.nih.gov/pathogens/pathogens_help/))
